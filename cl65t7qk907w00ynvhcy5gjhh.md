@@ -73,7 +73,7 @@ I was breaking out of my comfort zone and I could feel myself inching toward my 
 
 During my time in bootcamp, I didn't do anything special. I showed up. **It's like they say 80% of success is showing up.** I did all the homework, followed the lectures, did the readings, and completed the projects. 
 
-The process of breaking down complex concepts into smaller pieces felt made it easier for me to wrap my head around them. I broke down my goals into bite-sized pieces so I could keep track of my progress day by day.
+The process of breaking down complex concepts into smaller pieces made it easier for me to wrap my head around them. I broke down my goals into bite-sized pieces so I could keep track of my progress day by day.
 
 **The biggest obstacle I encountered was becoming a better communicator and explaining technical concepts.** We did a lot of pair programming when working on projects at App Academy. I thought I understood everything, but I had a hard time articulating what I had learned. 
 
