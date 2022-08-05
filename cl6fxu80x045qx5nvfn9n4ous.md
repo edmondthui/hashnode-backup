@@ -52,7 +52,7 @@ There were 51 minutes of materials we had to go through, 34 minutes of additiona
 
 **Students are expected to spend 80 - 100 hours per week** coding and learning throughout the duration of the course. There is no sugar coating it. If you are in a reputable program you will be expected to meet minimum coding standards. App Academy had tests every few weeks and if failed, you would be moved to a later cohort. If failed again you would be removed from the program and your deposit refunded.
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659579558783/otgFLDc4n.png align="center")
+![6oz0j7.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1659672248695/Asoh26Hfl.jpeg align="center")
 
 Luckily, I had my parents who were there to support me throughout my journey. I would not have been able to survive without them. Having the comfort of home-cooked meals helped my mental health and allowed me to persevere. A support system you can turn to if things are becoming too much to handle is extremely helpful.
 
