@@ -15,7 +15,7 @@ Git is a version control system. It tracks any changes made to files in a direct
 
 **It is extremely important to learn how to use Git if you want to land a job in the tech industry.** In any professional setting, you will probably be using some form of Git to collaborate with other members of your team. In my personal experience, both the companies I worked at used GitHub.
 
-Usually, Git stores your files locally, but with GitHub, you can have an online location where your files and version history are stored. When working with multiple people this is a godsend, although merge conflicts make me sadge.
+Usually, Git stores your files locally, but with GitHub, you can have an online location where your files and version history are stored. When working with multiple people this is a godsend, although merge conflicts make me sad.
 
 ## Conventional Commits and other Git best practices
 
@@ -35,7 +35,7 @@ I mentioned previously that you will need to work with others when using Git. Th
 
 **Pull requests are the preferred way of reviewing and merging code.** Usually once you are finished with a feature on your local branch you will push up the code to the remote repository (Github). Then you will open up a pull request/merge request. This notifies others that your code needs to be reviewed. Usually, collaborators will leave comments that you will need to fix. Once approved you can merge your code onto the main branch.
 
-**Resolving merge conflicts is not as big of a deal as it may seem.** It will happen all the time due because multiple people will be touching the same files. This only happens with Git cannot automatically merge 2 branches. Usually, what you have to do is check with the other developer that made the change and collaborate to make a solution that works for both of you.
+**Resolving merge conflicts is not as big of a deal as it may seem.** It will happen all the time because multiple people will be touching the same files. This only happens with Git cannot automatically merge 2 branches. Usually, what you have to do is check with the other developer that made the change and collaborate to make a solution that works for both of you.
 
 **Branching strategies are the last part of working with others.** There will usually be an already established strategy when you are joining a company. The most common strategies are single branch, feature branching, and [git flow](https://nvie.com/posts/a-successful-git-branching-model/). Single branch strategies are usually for when you are not working with others and pushing all changes to a single branch. Feature branching strategies create new branches for each new feature or bug, then merge them into the main branch. Git flow has 2 ongoing branches, usually main and develop. Features are developed on the develop branch and then merged into the main branch as a release. 
 
