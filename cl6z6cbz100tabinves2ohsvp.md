@@ -53,7 +53,7 @@ Adds the files in the specified directory to be staged for the next commit. You 
 
 Example: `git add .` or `git add ./folder`
 ### git commit -m "`commit-message`"
-This command commits staging with a message. Commits are saved changes and explain to others what you have done in the project. Good commit messages are an important way to provide useful information in case you did something wrong and need to look back to previous changes to revert code. 
+This command commits to staging with a message. Commits are saved changes and explain to others what you have done in the project. Good commit messages are an important way to provide useful information in case you did something wrong and need to look back to previous changes to revert code. 
 
 Below this list, you will find a short guide to conventional commits.
 
