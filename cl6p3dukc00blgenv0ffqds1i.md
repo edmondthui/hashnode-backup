@@ -12,7 +12,7 @@ If you are a beginner developer there is no reason why you shouldn't have your o
 
 First, you have to set up your Github repository which is where we will push all of our code. 
 
-My next article is a complete guide for git best practices and using git professionally. If you don't see the link yet follow the blog and you'll be notified when I post it.
+My next article is a complete guide for git best practices and using git professionally. You can read my [Git and Github tutorial here](https://www.blog.edmondhui.com/how-to-use-git).
 
 1. Click the "+" button on the top right of the page on Github. There should be a dropdown that shows up, then press "New Repository".
 ![Screen Shot 2022-08-09 at 8.56.23 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660093109889/lo6pTfjfZ.png align="center")
