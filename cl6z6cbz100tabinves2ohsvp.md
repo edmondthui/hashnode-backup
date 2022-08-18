@@ -49,7 +49,7 @@ Example: `git remote add origin https://github.com/user/repo.git`
 ### git status 
 Checks your current changes in your directory and shows you what has been staged, what hasn't, and any new files. 
 ### git add `directory`
-Adds the files in the specified directory to be staged for the next commit. You can specify specific files to add through the directory. You can do this command as many times as you like and add as many files as you like to be staged before you commit. 
+Adds the files in the specified directory to be staged for the next commit. You can specify files to add through the directory. You can do this command as many times as you like and add as many files as you like to be staged before you commit. 
 
 Example: `git add .` or `git add ./folder`
 ### git commit -m "`commit-message`"
