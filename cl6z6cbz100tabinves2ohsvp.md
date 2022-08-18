@@ -112,7 +112,7 @@ Example: `git diff 0da94be 59ff30c`
 ### git merge `branch-name`
 Incorporates any changes from a different branch into your current branch. Git will attempt to automatically merge any commits for you. However, if there are files that are changed by both branches you will need to manually resolve any conflicts.
 ### git cherry-pick `commit-hash`
-Takes the changes from a specific commit. You specify the commit by the commit hash. This is great in a team setting where you can cherry-pick specific pieces of code to test or use in your own local repository.
+Takes the changes from a specific commit and adds them to your current branch. You specify the commit by the commit hash. This is great in a team setting where you can cherry-pick specific pieces of code to test or use in your own local repository.
 
 Example: `git cherry-pick 59ff30c`
 
