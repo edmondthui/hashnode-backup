@@ -6,7 +6,7 @@ Before writing a line of code every developer needs to first set up their dev en
 
 I guarantee this will be the simplest introduction to development on the internet and that anyone will be able to follow this guide. 
 
-## Developer environment setup for windows
+## Developer environment setup for Windows
 To code on a windows device, you will need to download a Linux subsystem. This sounds much more daunting than it actually is. This is completely free and easy to set up. 
 
 You must have at least Windows 10 or higher to be able to set this up.
