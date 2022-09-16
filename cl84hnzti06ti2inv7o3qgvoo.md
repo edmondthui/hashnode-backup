@@ -41,9 +41,9 @@ git config --global user.name "Your Name"
 You should replace "Your Name" with your name.
 10. Next configure Git to use your email, you should use the email associated with your GitHub account:
 ```
-git config --global user.email youremail@email.com
+git config --global user.email "YourEmail@email.com"
 ```
-Replace "youremail@email.com" with your email.
+Replace "YourEmail@email.com" with your email.
 
 ### Installing and configuring Visual Studio Code (VSCode)
 1. You will need to install Visual Studio Code, you can do that by going to the [VSCode website](https://code.visualstudio.com/download) and clicking download for Windows.
@@ -86,9 +86,9 @@ git config --global user.name "Your Name"
 You should replace "Your Name" with your name.
 10. Next configure Git to use your email, you should use the email associated with your GitHub account:
 ```
-git config --global user.email youremail@email.com
+git config --global user.email "YourEmail@email.com"
 ```
-Replace "youremail@email.com" with your email.
+Replace "YourEmail@email.com" with your email.
 
 ### Install Virtual Studio Code
 You can go to [Virtual Studio Code's website](https://code.visualstudio.com/download) and click download for Mac. You should be able to unzip it and drag it into your applications. That's it, now you can start coding!
