@@ -1,8 +1,8 @@
 ## How to set up a developer environment on Mac and PC
 
-The hardest part of becoming a software engineer is starting. New developers may feel overwhelmed with everything they have to learn and never take the first step.
+The hardest part of becoming a software engineer is starting.** New developers may feel overwhelmed and never take the first step.**
 
-Before writing a line of code every developer needs to first set up their dev environment. This article is to help non-devs dip their toes into the world of software development by providing an easy to follow step by step guide to set up every tool you need to start coding.
+Before writing a line of code every developer needs to first set up their dev environment. This article is to help non-devs dip their toes into the world of software development by **providing an easy to follow step by step guide to set up every tool you need to start coding.**
 
 I guarantee this will be the simplest introduction to development on the internet and that anyone will be able to follow this guide. 
 
