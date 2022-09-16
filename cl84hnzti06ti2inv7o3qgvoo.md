@@ -64,7 +64,7 @@ This will install VSCode Server and open VSCode.
 To start coding on a Mac you have to download a few things. Instead of setting up a Linux subsystem like what we had to do on Windows, we will have to use Homebrew to use the command line to install software and tools. 
 
 ### Installing Homebrew
-Homebrew allows you to download applications and tools. It is a package manager for Macs that simplifies installing software on macOS. You can check their website out [here](https://brew.sh/). It is open-source and 100% safe as long as you know what you're downloading with it. 
+Homebrew allows you to download applications and tools. It is a package manager for Macs that simplifies installing software on macOS. You can check their website out [here](https://brew.sh/). It is open-source and 100% safe as long as you know what you're downloading. 
 
 1. Open your terminal.
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663304614384/f2u5-LJry.png align="center")
