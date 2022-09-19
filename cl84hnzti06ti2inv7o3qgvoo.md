@@ -90,8 +90,8 @@ git config --global user.email "YourEmail@email.com"
 ```
 Replace "YourEmail@email.com" with your email.
 
-### Install Virtual Studio Code
-You can go to [Virtual Studio Code's website](https://code.visualstudio.com/download) and click download for Mac. You should be able to unzip it and drag it into your applications. That's it, now you can start coding!
+### Install Visual Studio Code
+You can go to [Visual Studio Code's website](https://code.visualstudio.com/download) and click download for Mac. You should be able to unzip it and drag it into your applications. That's it, now you can start coding!
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663305348484/MLqDocPnq.png align="center")
 
 ## Conclusion
